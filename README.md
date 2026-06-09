@@ -125,15 +125,3 @@ java -jar target/student-management-0.0.1-SNAPSHOT.jar
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
 
----
-
-## 👤 Author
-
-**Prem G**
-- GitHub: [@thisisPremG](https://github.com/thisisPremG)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
